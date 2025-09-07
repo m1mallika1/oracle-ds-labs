@@ -18,3 +18,11 @@ Certification in progress. Labs will be uploaded and updated regularly.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+## Learnt Courses
+
+- Kaggle Python for Data Science – Completed (Sept 2025)  
+  [View Certificate](https://www.kaggle.com/learn/certification/mallikamathur/python)
+
+  This course helped reinforce Python fundamentals and notebook fluency, aligning with Oracle’s certification prerequisites.
